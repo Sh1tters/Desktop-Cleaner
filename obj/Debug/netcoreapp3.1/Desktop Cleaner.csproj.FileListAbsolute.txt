@@ -1,0 +1,13 @@
+C:\Program Files (172x)\Language C#\Desktop Cleaner\Desktop Cleaner\bin\Debug\netcoreapp3.1\Desktop Cleaner.exe
+C:\Program Files (172x)\Language C#\Desktop Cleaner\Desktop Cleaner\bin\Debug\netcoreapp3.1\Desktop Cleaner.deps.json
+C:\Program Files (172x)\Language C#\Desktop Cleaner\Desktop Cleaner\bin\Debug\netcoreapp3.1\Desktop Cleaner.runtimeconfig.json
+C:\Program Files (172x)\Language C#\Desktop Cleaner\Desktop Cleaner\bin\Debug\netcoreapp3.1\Desktop Cleaner.runtimeconfig.dev.json
+C:\Program Files (172x)\Language C#\Desktop Cleaner\Desktop Cleaner\bin\Debug\netcoreapp3.1\Desktop Cleaner.dll
+C:\Program Files (172x)\Language C#\Desktop Cleaner\Desktop Cleaner\bin\Debug\netcoreapp3.1\Desktop Cleaner.pdb
+C:\Program Files (172x)\Language C#\Desktop Cleaner\Desktop Cleaner\obj\Debug\netcoreapp3.1\Desktop Cleaner.csprojAssemblyReference.cache
+C:\Program Files (172x)\Language C#\Desktop Cleaner\Desktop Cleaner\obj\Debug\netcoreapp3.1\Desktop Cleaner.AssemblyInfoInputs.cache
+C:\Program Files (172x)\Language C#\Desktop Cleaner\Desktop Cleaner\obj\Debug\netcoreapp3.1\Desktop Cleaner.AssemblyInfo.cs
+C:\Program Files (172x)\Language C#\Desktop Cleaner\Desktop Cleaner\obj\Debug\netcoreapp3.1\Desktop Cleaner.csproj.CoreCompileInputs.cache
+C:\Program Files (172x)\Language C#\Desktop Cleaner\Desktop Cleaner\obj\Debug\netcoreapp3.1\Desktop Cleaner.dll
+C:\Program Files (172x)\Language C#\Desktop Cleaner\Desktop Cleaner\obj\Debug\netcoreapp3.1\Desktop Cleaner.pdb
+C:\Program Files (172x)\Language C#\Desktop Cleaner\Desktop Cleaner\obj\Debug\netcoreapp3.1\Desktop Cleaner.genruntimeconfig.cache

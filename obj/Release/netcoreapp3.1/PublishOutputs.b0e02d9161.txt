@@ -1,0 +1,5 @@
+C:\Program Files (172x)\Language C#\Desktop Cleaner\Desktop Cleaner\bin\Release\netcoreapp3.1\publish\DesktopCleaner\Desktop Cleaner.exe
+C:\Program Files (172x)\Language C#\Desktop Cleaner\Desktop Cleaner\bin\Release\netcoreapp3.1\publish\DesktopCleaner\Desktop Cleaner.dll
+C:\Program Files (172x)\Language C#\Desktop Cleaner\Desktop Cleaner\bin\Release\netcoreapp3.1\publish\DesktopCleaner\Desktop Cleaner.deps.json
+C:\Program Files (172x)\Language C#\Desktop Cleaner\Desktop Cleaner\bin\Release\netcoreapp3.1\publish\DesktopCleaner\Desktop Cleaner.runtimeconfig.json
+C:\Program Files (172x)\Language C#\Desktop Cleaner\Desktop Cleaner\bin\Release\netcoreapp3.1\publish\DesktopCleaner\Desktop Cleaner.pdb

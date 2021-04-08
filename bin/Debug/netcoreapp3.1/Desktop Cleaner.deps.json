@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Desktop Cleaner/1.0.0": {
+        "runtime": {
+          "Desktop Cleaner.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Desktop Cleaner/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,5 @@
+C:\Users\Peter\OneDrive\Skrivebord\Desktop Cleaner.exe
+C:\Users\Peter\OneDrive\Skrivebord\Desktop Cleaner.dll
+C:\Users\Peter\OneDrive\Skrivebord\Desktop Cleaner.deps.json
+C:\Users\Peter\OneDrive\Skrivebord\Desktop Cleaner.runtimeconfig.json
+C:\Users\Peter\OneDrive\Skrivebord\Desktop Cleaner.pdb
